@@ -1,0 +1,6 @@
+{
+  "name": "ChatBot Môn Ngữ Văn 6",
+  "description": "Trợ lý Cô Minh Ngọc AI giải đáp câu hỏi, bài tập SGK và đề thi môn Ngữ văn Lớp 6 dựa trên tài liệu chuẩn Bài 1 đến Bài 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
